@@ -18,6 +18,7 @@
 In this project, we implement a complete **end-to-end DevOps pipeline** to deploy a **Java-based banking application** using modern tools and best practices. The focus is on automating infrastructure provisioning, application build, and deployment using a **CI/CD approach**.
 
 ---
+---
 
 # Tech Stack Used
 
